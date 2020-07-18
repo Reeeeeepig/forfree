@@ -3,6 +3,7 @@ import random
 import datetime
 from operator import itemgetter
 from discord.ext import commands
+
 client = commands.Bot(command_prefix='.')
 @client.remove_command('help')
 
@@ -312,4 +313,4 @@ async def bot(ctx):
 
         
         
-client.run('NzMxODUzMDYwMjA0MTM0NDAw.XwsFjw.stYMUH0XubtvltkmGU8ddTstBEI')
+client.run('remove these words and put your bot token')
