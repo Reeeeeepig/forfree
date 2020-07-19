@@ -313,4 +313,4 @@ async def bot(ctx):
 
         
         
-client.run('remove these words and put your bot token')
+client.run('NzM0Mjg0NzY0MTQ3NzQ0ODQ5.XxPkKw.hVlVNfQdzkhmoHZ5ghdtG-faoj0')
